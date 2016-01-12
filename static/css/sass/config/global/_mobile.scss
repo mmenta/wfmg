@@ -1,0 +1,22 @@
+.container {
+    width: 640px;
+}
+
+.no-mobile {
+    display: none !important;
+}
+
+article {
+
+    .article-video {
+        width: 100%;
+        margin-bottom: 15px;
+        float: none;
+    }
+
+    .article-content {
+        width: 100%;
+        float: none;
+    }
+
+}
