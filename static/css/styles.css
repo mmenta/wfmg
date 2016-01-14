@@ -389,6 +389,9 @@ html {
   font-family: 'Work Sans', sans-serif;
   font-weight: 400; }
 
+body {
+  min-width: 640px; }
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -476,10 +479,13 @@ article {
     width: 860px; } }
 @media screen and (max-width: 860px) {
   .container {
-    width: 640px; }
+    width: 600px; }
 
   .no-mobile {
     display: none !important; }
+
+  .section-title {
+    width: 75%; }
 
   article .article-video {
     width: 100%;
@@ -738,6 +744,9 @@ footer {
 
   section.contact .section-text {
     width: 100%;
-    float: none; } }
+    float: none; }
+
+  section.photography .photo-wrapper {
+    text-align: center; } }
 
 /*# sourceMappingURL=styles.css.map */

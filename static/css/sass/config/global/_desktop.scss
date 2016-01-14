@@ -2,6 +2,10 @@ html {
     @include work-sans-normal();
 }
 
+body {
+    min-width: 640px;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
