@@ -6,8 +6,8 @@
                 <iframe class="video" src="https://player.vimeo.com/video/148807848" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="article-content">
-                <h2 class="article-title">Title goes here</h2>
-                <p class="article-desc section-text">Lorem ipsum dolor sit amet, cibo clita has eu, ne utamur dolorum pro. No postea delicatissimi mea. Nobis suscipit lucilius usu cu, ignota neglegentur eos ne, quo id tempor oportere percipitur. Feugiat impedit verterem an sed, iisque eligendi pri ex. Altera pertinax no sea, eam ea autem idque graeci, no vix accusamus reprimique. Tempor virtute molestie ut sed, eos equidem honestatis theophrastus in. Aperiam corrumpit et his, doming perpetua molestiae ea mea, congue dicant nostrud in usu.</p>
+                <h2 class="article-title">Flowing Interior Shot</h2>
+                <p class="article-desc section-text">We use cinematic style shots to guide potential buyers through the property to highlight features in the light of your vision.</p>
             </div>
         </article>
 
@@ -16,8 +16,8 @@
                 <iframe class="video" src="https://player.vimeo.com/video/148811168" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="article-content">
-                <h2 class="article-title">Title goes here</h2>
-                <p class="article-desc section-text">Lorem ipsum dolor sit amet, cibo clita has eu, ne utamur dolorum pro. No postea delicatissimi mea. Nobis suscipit lucilius usu cu, ignota neglegentur eos ne, quo id tempor oportere percipitur. Feugiat impedit verterem an sed, iisque eligendi pri ex. Altera pertinax no sea, eam ea autem idque graeci, no vix accusamus reprimique. Tempor virtute molestie ut sed, eos equidem honestatis theophrastus in. Aperiam corrumpit et his, doming perpetua molestiae ea mea, congue dicant nostrud in usu.</p>
+                <h2 class="article-title">Arial Shots</h2>
+                <p class="article-desc section-text">Through drone technology we're able to encompass your property in it's entirety and create breathtaking views that include the surrounding area.</p>
             </div>
         </article>
 
@@ -26,8 +26,8 @@
                 <iframe class="video" src="https://player.vimeo.com/video/148807095" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="article-content">
-                <h2 class="article-title">Title goes here</h2>
-                <p class="article-desc section-text">Lorem ipsum dolor sit amet, cibo clita has eu, ne utamur dolorum pro. No postea delicatissimi mea. Nobis suscipit lucilius usu cu, ignota neglegentur eos ne, quo id tempor oportere percipitur. Feugiat impedit verterem an sed, iisque eligendi pri ex. Altera pertinax no sea, eam ea autem idque graeci, no vix accusamus reprimique. Tempor virtute molestie ut sed, eos equidem honestatis theophrastus in. Aperiam corrumpit et his, doming perpetua molestiae ea mea, congue dicant nostrud in usu.</p>
+                <h2 class="article-title">Lifestyle Shot</h2>
+                <p class="article-desc section-text">Location matters. Our lifestyle shots will display the unique amenities and local attractions of your community.</p>
             </div>
         </article>
     </div>

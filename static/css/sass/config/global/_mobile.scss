@@ -7,7 +7,12 @@
 }
 
 .section-title {
-    width: 75%;
+    width: 100%;
+    text-align: center;
+}
+
+section {
+    padding: 50px 0;
 }
 
 article {
@@ -22,5 +27,4 @@ article {
         width: 100%;
         float: none;
     }
-
 }

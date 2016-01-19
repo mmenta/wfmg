@@ -405,7 +405,7 @@ ul {
 section {
   position: relative;
   width: 100%;
-  padding: 50px 0; }
+  padding: 50px 0 100px; }
 
 .section-title {
   width: 50%;
@@ -485,7 +485,11 @@ article {
     display: none !important; }
 
   .section-title {
-    width: 75%; }
+    width: 100%;
+    text-align: center; }
+
+  section {
+    padding: 50px 0; }
 
   article .article-video {
     width: 100%;
@@ -525,7 +529,7 @@ nav {
   height: 50px;
   border-top: solid 2px #000;
   border-bottom: solid 2px #000;
-  background: #907b53;
+  background: #2c3539;
   color: #fff;
   z-index: 5; }
   .sub-menu nav {
@@ -699,19 +703,28 @@ nav {
 /*  Use "desktop" for default styling, then override with tablet & mobile */
 section.header-carousel {
   padding: 0;
-  background-color: #907b53; }
+  background-color: #2c3539; }
   section.header-carousel #carousel-hero img {
     width: 100%;
     max-height: 100vh; }
+  section.header-carousel .main-logo {
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    height: 100px;
+    width: 100px; }
 
-section.about .container:after {
-  content: "";
-  display: table;
-  clear: both; }
-section.about .section-text {
-  width: 70%;
-  margin-top: 25px;
-  float: right; }
+section.about {
+  padding: 100px 0 150px; }
+  section.about .container:after {
+    content: "";
+    display: table;
+    clear: both; }
+  section.about .section-text {
+    width: 70%;
+    margin-top: 50px;
+    float: right;
+    font-size: 26px; }
 
 .fixed section.about {
   margin-top: 50px; }
@@ -729,21 +742,25 @@ section.contact .container:after {
   clear: both; }
 section.contact .section-text {
   width: 70%;
-  margin-top: 25px;
+  margin-top: 50px;
   float: right; }
 
 footer {
   width: 100%;
   height: 400px;
-  background-color: #907b53; }
+  background-color: #2c3539; }
 
 @media screen and (max-width: 860px) {
-  section.about .section-text {
-    width: 100%;
-    float: none; }
+  section.about {
+    padding: 50px 0; }
+    section.about .section-text {
+      width: 100%;
+      float: none;
+      font-size: 18px; }
 
   section.contact .section-text {
     width: 100%;
+    margin-top: 25px;
     float: none; }
 
   section.photography .photo-wrapper {

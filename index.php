@@ -15,7 +15,9 @@
 <?php include('views/about.php'); ?>
 <?php include('views/property.php'); ?>
 <?php include('views/pricing.php'); ?>
-<?php include('views/photography.php'); ?>
+<?php 
+/*include('views/photography.php');*/ 
+?>
 <?php include('views/contact.php'); ?>
 
 

@@ -3,11 +3,7 @@
         <h1 class="section-title">About Us</h1>
 
         <p class="section-text">
-            Lorem ipsum dolor sit amet, cibo clita has eu, ne utamur dolorum pro. No postea delicatissimi mea. Nobis suscipit lucilius usu cu, ignota neglegentur eos ne, quo id tempor oportere percipitur. Feugiat impedit verterem an sed, iisque eligendi pri ex. Altera pertinax no sea, eam ea autem idque graeci, no vix accusamus reprimique. Tempor virtute molestie ut sed, eos equidem honestatis theophrastus in. Aperiam corrumpit et his, doming perpetua molestiae ea mea, congue dicant nostrud in usu.
-            <br /><br />
-            Qui at liber tritani facilisis, quo ea sint facete nusquam. Ea nam suscipit corrumpit hendrerit. Ei animal scribentur pri. Nostro insolens voluptaria eos at, pro mazim dicunt perpetua ea, partem essent maiestatis ut has.
-            <br /><br />
-            Eu debet appetere mandamus ius, minimum efficiendi ad est, sea rebum veniam at. Has saperet civibus in, mea semper volutpat intellegam ei, vel ut partem integre. Inermis fabellas pri ne, mei etiam tantas voluptatum an. Eu sit scaevola molestiae.
+            West Flank Marketing Group started with one simple idea. The idea of showing what we love about the things we have.  We focus on bringing to life and showcasing features of your home, plane, boat, or car using film techniques such as point of view, cinematic's, aerial views, and 360 interactive. Our mission is to visually show potential buyers the highlights and uniqueness of your asset for endless possibilities and new beginnings.
         </p>
     </div>
 </section> <!-- /about -->

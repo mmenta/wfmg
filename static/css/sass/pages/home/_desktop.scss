@@ -8,13 +8,21 @@ section.header-carousel {
             width: 100%;
             max-height: 100vh;
         }
+    }
 
+    .main-logo {
+        position: absolute;
+        right: 20px;
+        top: 50px;
 
+        height: 100px;
+        width: 100px;
     }
 
 }
 
 section.about {
+    padding: 100px 0 150px;
 
     .container {
         @include clearfix();
@@ -22,8 +30,9 @@ section.about {
 
     .section-text {
         width: 70%;
-        margin-top: 25px;
+        margin-top: 50px;
         float: right;
+        font-size: 26px;
     }
 }
 
@@ -63,7 +72,7 @@ section.contact {
 
     .section-text {
         width: 70%;
-        margin-top: 25px;
+        margin-top: 50px;
         float: right;
     }
 }
@@ -74,26 +83,3 @@ footer {
     height: 400px;
     background-color: $gold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// =====
-
-
