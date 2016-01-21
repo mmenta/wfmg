@@ -1,6 +1,6 @@
 <section class="pricing">
     <div class="container">
-        <h1 class="section-title">Pricing</h1>
+        <h1 class="section-title">Packages</h1>
 
         <article>
             <!--

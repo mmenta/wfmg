@@ -16,8 +16,8 @@
                 <iframe class="video" src="https://player.vimeo.com/video/148811168" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="article-content">
-                <h2 class="article-title">Arial Shots</h2>
-                <p class="article-desc section-text">Through drone technology we're able to encompass your property in it's entirety and create breathtaking views that include the surrounding area.</p>
+                <h2 class="article-title">Aerial Shots</h2>
+                <p class="article-desc section-text">Through drone technology, we're able to encompass your property in it's entirety and create breathtaking views that include the surrounding area.</p>
             </div>
         </article>
 

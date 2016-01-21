@@ -14,7 +14,7 @@
         <div><img src="static/img/carousel/home3.jpg" /></div>
     </div>
 
-    <img class="main-logo" src="static/img/logo.jpg" /> 
+    <img class="main-logo" src="static/img/logo.png" /> 
 
 </section> <!-- /header-carousel -->
 
